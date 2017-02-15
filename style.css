@@ -1,9 +1,13 @@
-body
-{
-background-color:#80DEEA;
-font-family: Open Sans;/* Source: http://www.awwwards.com*/
-font-size: 30px;
-color:white;
+body {
+    background-color: #80DEEA;
+    font-family: Open Sans;
+    /* Source: http://www.awwwards.com*/
+    font-size: 30px;
+    color: white;
+    margin: 0;
 }
 
-#container
+.container
+{
+  background-image: url("images/logo.jpg");
+}
